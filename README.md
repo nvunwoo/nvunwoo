@@ -6,16 +6,19 @@
 />
 </a>
 
-<!-- 나중에 추가할 예정
+<br>
 
-## 💻 Tech Stack
+### 상명대학교 - 휴먼AI공학전공 & 게임전공 (복수전공)
 
-[![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooohyunwooo&hide=stars,contribs=true&show_icons=true&&theme=github_dark
-)](https://github.com/hyynjju/github-readme-stats)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooohyunwooo&layout=compact&&theme=github_dark)
+## 💻 Dev Track
 
--->
+- [2025.03 ~ Present]&nbsp;&nbsp;포트리스 (_"단군의 길"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
+
+- [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로 (INYRO) - C언어 수업 멘토
+
+- [2025.07 ~ 2025.09]&nbsp;&nbsp;현대오토에버 스마트 모빌리티 공학체험교육 8기 - 코딩 교육 멘토
 
 <br>
 
