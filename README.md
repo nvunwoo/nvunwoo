@@ -22,6 +22,12 @@
 
 <br>
 
+## 🏆 Awards
+
+- [2025.07]&nbsp;&nbsp;2025년 1학기 상명대 게임전공 게임개발 공모전&nbsp;&nbsp;**우수상** (포트리스 - _"단군의 길"_)&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU/The-Way-of-Dangun)
+
+<br>
+
 ## 📮 Contact Me
 
 <a href="https://www.instagram.com/ooohyunwooo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
