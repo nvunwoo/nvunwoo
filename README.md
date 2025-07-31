@@ -18,7 +18,7 @@
 
 - [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로 (INYRO) - C언어 수업 멘토
 
-- [2025.07 ~ 2025.09]&nbsp;&nbsp;현대오토에버 스마트 모빌리티 공학 체험교육 8기 - 코딩 교육 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com)
+- [2025.07 ~ 2025.09]&nbsp;&nbsp;현대오토에버 스마트 모빌리티 공학 체험교육 8기 - 코딩 교육 멘토&nbsp;&nbsp;[**[Link]**](https://www.youthassembly.kr/news/858715)
 
 <br>
 
