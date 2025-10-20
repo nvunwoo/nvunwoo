@@ -43,7 +43,7 @@
 
 ## 📮 Contact Me
 
-<a href="https://www.instagram.com/ooohyunwooo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+<a href="https://www.instagram.com/nvun.woo"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href="mailto:eric5083@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 <br>
