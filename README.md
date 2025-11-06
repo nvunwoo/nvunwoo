@@ -33,8 +33,6 @@
 <details>
 <summary> <b>🌏 Experiences</b> </summary>
 
-- [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 외국인 유학생 문화교류 버디 프로그램 - 팀장 (중국 유학생팀)
-
 - [2025.12 ~ 2026.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르
 
 </details>
