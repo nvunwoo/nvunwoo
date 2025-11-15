@@ -8,21 +8,28 @@
 
 <br>
 
-## 상명대학교 - 휴먼AI공학전공 & 게임전공
-
-<br>
 
 ## 💻 Dev Track
 
+- [2021.03 ~ Present]&nbsp;&nbsp;**상명대학교 - 휴먼AI공학전공 & 게임전공 (복수전공)**
+
 - [2025.03 ~ Present]&nbsp;&nbsp;포트리스 (_"단군의 길"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
 
-- [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - C언어 수업 멘토
+<br>
+
+
+## 🌏 Experiences
+
+- [2025.12 ~ 2026.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르
+
+- [2025.09 ~ 2025.12]&nbsp;&nbsp;LG CNS AI Genius 대학생 서포터즈 14기&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
 
 - [2025.07 ~ 2025.09]&nbsp;&nbsp;현대 오토에버 스마트 모빌리티 공학 체험교육 8기 - 코딩 교육 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com)
 
-- [2025.09 ~ Present]&nbsp;&nbsp;LG CNS AI Genius 대학생 서포터즈 14기&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
+- [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - C언어 수업 멘토
 
 <br>
+
 
 ## 🏆 Awards
 
@@ -30,14 +37,6 @@
 
 <br>
 
-<details>
-<summary> <b>🌏 Experiences</b> </summary>
-
-- [2025.12 ~ 2026.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르
-
-</details>
-
-<br>
 
 ## 📮 Contact Me
 
@@ -46,12 +45,14 @@
 
 <br>
 
+
 ## 🎮 Game Engines
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23313131.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <br>
+
 
 ## 📝 Languages
 
@@ -62,3 +63,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
