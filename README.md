@@ -9,31 +9,33 @@
 <br>
 
 
-## 💻 Dev Track
+## 🎮 Experiences
 
-- [2021.03 ~ Present]&nbsp;&nbsp;**상명대학교 - 휴먼AI공학전공 & 게임전공 (복수전공)**
+- [2021.03 ~ Present]&nbsp;&nbsp;**상명대학교 서울캠퍼스 - 휴먼AI공학전공 & 게임전공** (복수전공)
+
+- [2025.11 ~ Present]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기
 
 - [2025.03 ~ Present]&nbsp;&nbsp;포트리스 (_"단군의 길"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
 
 <br>
 
 
-## 🌏 Experiences
+## 🌏 Activities
 
 - [2025.12 ~ 2026.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르
 
-- [2025.09 ~ 2025.12]&nbsp;&nbsp;LG CNS AI Genius 대학생 서포터즈 14기&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
+- [2025.09 ~ 2025.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 대학생 서포터즈 14기 - 중학생 AI 수업 보조강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
 
-- [2025.07 ~ 2025.09]&nbsp;&nbsp;현대 오토에버 스마트 모빌리티 공학 체험교육 8기 - 코딩 교육 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com)
+- [2025.07 ~ 2025.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 초등학생 코딩 교육 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com)
 
-- [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - C언어 수업 멘토
+- [2025.03 ~ 2025.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - 신입생 C언어 멘토링
 
 <br>
 
 
 ## 🏆 Awards
 
-- [2025.07]&nbsp;&nbsp;2025 1학기 상명대 게임전공 게임개발 공모전&nbsp;&nbsp;**우수상** (포트리스 - _"단군의 길"_)&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU/The-Way-of-Dangun)
+- [2025.07]&nbsp;&nbsp;2025 1학기 상명대 게임전공 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"단군의 길"_]**](https://github.com/Fortress-SMU/The-Way-of-Dangun)
 
 <br>
 
@@ -46,7 +48,7 @@
 <br>
 
 
-## 🎮 Game Engines
+## 🛠️ Game Engines
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23313131.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -54,7 +56,7 @@
 <br>
 
 
-## 📝 Languages
+## 💻 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%234B275F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
