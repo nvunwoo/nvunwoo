@@ -15,14 +15,14 @@
 
 - [25.11 ~ Present]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기
 
-- [25.03 ~ Present]&nbsp;&nbsp;포트리스 (_"단군의 길"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
+- [25.03 ~ Present]&nbsp;&nbsp;포트리스 (_"역천"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
 
 <br>
 
 
 ## 🏆 Award
 
-- [25.07]&nbsp;&nbsp;상명대 게임전공 1학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"단군의 길"_]**](https://github.com/Fortress-SMU/The-Way-of-Dangun)
+- [25.07]&nbsp;&nbsp;상명대 게임전공 1학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
 
 <br>
 
