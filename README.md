@@ -20,7 +20,9 @@
 <br>
 
 
-## 🏆 Award
+## 🏆 Awards
+
+- [25.12]&nbsp;&nbsp;상명대 게임전공 2학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
 
 - [25.07]&nbsp;&nbsp;상명대 게임전공 1학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
 
