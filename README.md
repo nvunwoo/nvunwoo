@@ -17,6 +17,7 @@
 
 - [25.03 ~ Present]&nbsp;&nbsp;포트리스 (_"역천"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
 
+
 <br>
 
 
@@ -26,18 +27,23 @@
 
 - [25.07]&nbsp;&nbsp;상명대 게임전공 1학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
 
+
 <br>
 
 
-## 🌏 Activities
+<details>
+<summary> <b>🌏 Activities</b> </summary>
 
-- [25.12 ~ 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르
+- [25.12 ~ 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르&nbsp;&nbsp;[**[Link]**](https://landscape.smu.ac.kr/webzine/today.do?mode=view&articleNo=762529&article.offset=0&articleLimit=10)
 
-- [25.09 ~ 25.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 대학생 서포터즈 14기 - 중학생 AI 수업 보조강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
+- [25.09 ~ 25.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 서포터즈 14기 - 중학생 AI 수업 보조강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
 
 - [25.07 ~ 25.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 초등학생 코딩 교육 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com)
 
 - [25.03 ~ 25.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - 신입생 C언어 멘토링
+
+</details>
+
 
 <br>
 
@@ -46,6 +52,7 @@
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23313131.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 
 <br>
 
@@ -59,6 +66,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <br>
 
