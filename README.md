@@ -1,9 +1,9 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nvunwoo&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/nvunwoo"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nvunwoo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/nvunwoo?pet-id=719522876689401092"
+    width="600"
+    height="150"
+  />
 </a>
 
 <br>
