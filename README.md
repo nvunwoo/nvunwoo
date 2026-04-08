@@ -13,7 +13,7 @@
 
 - [21.03 ~ Present]&nbsp;&nbsp;**상명대학교 서울캠퍼스 - 휴먼AI공학전공 & 게임전공** (복수전공)
 
-- [26.03 ~ Present]&nbsp;&nbsp;_펄어비스 김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사
+- [26.03 ~ Present]&nbsp;&nbsp;_펄어비스 김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사 [**[Link]**](https://www.kdcf.or.kr/Board/Story)
 
 - [25.11 ~ 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기
 
