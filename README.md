@@ -15,7 +15,7 @@
 
 - [26.03 ~ Present]&nbsp;&nbsp;_펄어비스 김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사 [**[Link]**](https://www.kdcf.or.kr/Board/Story)
 
-- [25.11 ~ 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기
+- [25.11 ~ 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기&nbsp;&nbsp;[**[Link]**](https://medium.com/nc-ai/varco-3d-크리에이터-프로그램-시작-뜨거웠던-킥오프-현장-스케치-4cd9dea9a724)
 
 - [25.03 ~ Present]&nbsp;&nbsp;포트리스(_"역천"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
 
