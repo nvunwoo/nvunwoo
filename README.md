@@ -38,9 +38,9 @@
 
 - [25.12 ~ 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르 파견&nbsp;&nbsp;[**[Link]**](https://landscape.smu.ac.kr/webzine/today.do?mode=view&articleNo=762529&article.offset=0&articleLimit=10)
 
-- [25.09 ~ 25.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 서포터즈 14기 - 중학생 AI 수업 강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_)
+- [25.09 ~ 25.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 서포터즈 14기 - 중학생 AI 수업 강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_/224102474326)
 
-- [25.07 ~ 25.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 청소년 코딩 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com)
+- [25.07 ~ 25.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 청소년 코딩 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com/sketch/26)
 
 - [25.03 ~ 25.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - 신입생 C언어 멘토
 
