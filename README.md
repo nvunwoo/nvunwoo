@@ -11,14 +11,11 @@
 
 ## 🎮 Experiences
 
-- [21.03 ~ Present]&nbsp;&nbsp;**상명대학교 서울캠퍼스 - 휴먼AI공학전공 & 게임전공** (복수전공)
+- [21.03 - Present]&nbsp;&nbsp;**상명대학교 서울캠퍼스 - 휴먼AI공학전공 & 게임전공** (복수전공)
 
-- [26.03 ~ Present]&nbsp;&nbsp;_펄어비스 김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사 [**[Link]**](https://www.kdcf.or.kr/Board/Story)
+- [26.03 - Present]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Story)
 
-- [25.11 ~ 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기&nbsp;&nbsp;[**[Link]**](https://medium.com/nc-ai/varco-3d-크리에이터-프로그램-시작-뜨거웠던-킥오프-현장-스케치-4cd9dea9a724)
-
-- [25.03 ~ Present]&nbsp;&nbsp;포트리스(_"역천"_ 개발팀) - 팀장&nbsp;&nbsp;[**[GitHub]**](https://github.com/Fortress-SMU)
-
+- [25.11 - 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기&nbsp;&nbsp;[**[Link]**](https://medium.com/nc-ai/varco-3d-크리에이터-프로그램-시작-뜨거웠던-킥오프-현장-스케치-4cd9dea9a724)
 
 <br>
 
@@ -36,13 +33,13 @@
 <details>
 <summary> <b>🌏 Activities</b> </summary>
 
-- [25.12 ~ 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르 파견&nbsp;&nbsp;[**[Link]**](https://landscape.smu.ac.kr/webzine/today.do?mode=view&articleNo=762529&article.offset=0&articleLimit=10)
+- [25.12 - 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르 파견&nbsp;&nbsp;[**[Link]**](https://landscape.smu.ac.kr/webzine/today.do?mode=view&articleNo=762529&article.offset=0&articleLimit=10)
 
-- [25.09 ~ 25.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 서포터즈 14기 - 중학생 AI 수업 강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_/224102474326)
+- [25.09 - 25.12]&nbsp;&nbsp;_LG CNS_&nbsp;&nbsp;AI Genius 서포터즈 14기 - 중학생 AI 수업 강사&nbsp;&nbsp;[**[Link]**](https://blog.naver.com/codinggenius_/224102474326)
 
-- [25.07 ~ 25.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 청소년 코딩 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com/sketch/26)
+- [25.07 - 25.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 청소년 코딩 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com/sketch/26)
 
-- [25.03 ~ 25.06]&nbsp;&nbsp;상명대학교 중앙동아리 이니로(INYRO) - 신입생 C언어 멘토
+- [25.03 - 25.06]&nbsp;&nbsp;상명대학교 코딩동아리 이니로(INYRO) - 신입생 C언어 멘토
 
 </details>
 
