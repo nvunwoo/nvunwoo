@@ -15,7 +15,9 @@
 
 - [26.05 - Present]&nbsp;&nbsp;_펄어비스_&nbsp;&nbsp;해커톤 딩가딩 프로젝트 서포터즈 - 청소년 게임 개발 강사
 
-- [26.04 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Story)
+- [26.04 - 26.05]&nbsp;&nbsp;2026 PlayX4 - 상명대학교 게임전공 부스 참가&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
+
+- [26.04 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
 
 - [25.11 - 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기&nbsp;&nbsp;[**[Link]**](https://medium.com/nc-ai/varco-3d-크리에이터-프로그램-시작-뜨거웠던-킥오프-현장-스케치-4cd9dea9a724)
 
