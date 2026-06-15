@@ -32,7 +32,8 @@
 <br>
 
 
-## 🌏 Activities
+<details>
+<summary> <b>🌏 Activities</b> </summary>
 
 - [26.04 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
 
@@ -43,6 +44,8 @@
 - [25.07 - 25.09]&nbsp;&nbsp;_현대 오토에버_&nbsp;&nbsp;스마트 모빌리티 공학 체험교육 8기 - 청소년 코딩 멘토&nbsp;&nbsp;[**[Link]**](https://hyundaiautoeversmart.com/sketch/26)
 
 - [25.03 - 25.06]&nbsp;&nbsp;상명대학교 코딩동아리 이니로(INYRO) - 신입생 C언어 멘토
+
+</details>
 
 <br>
 
