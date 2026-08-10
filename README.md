@@ -1,10 +1,11 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nvunwoo&utm_content=line">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=nvunwoo&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/nvunwoo?pet-id=719522876689401092"
+    src="https://render.gitanimals.org/lines/nvunwoo?pet-id=719522811610586452"
     width="600"
-    height="150"
+    height="120"
   />
 </a>
+
 
 <br>
 
@@ -13,7 +14,7 @@
 
 - [21.03 - Present]&nbsp;&nbsp;**상명대학교 서울캠퍼스 - 휴먼AI공학전공 & 게임전공** (복수전공)
 
-- [26.05 - Present]&nbsp;&nbsp;_펄어비스_&nbsp;&nbsp;해커톤 딩가딩 프로젝트 서포터즈 - 청소년 게임 개발 강사
+- [26.07 - Present]&nbsp;&nbsp;_펄어비스_&nbsp;&nbsp;해커톤 딩가딩 프로젝트 서포터즈 - 청소년 게임 개발 강사
 
 - [25.11 - 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기&nbsp;&nbsp;[**[Link]**](https://medium.com/nc-ai/varco-3d-크리에이터-프로그램-시작-뜨거웠던-킥오프-현장-스케치-4cd9dea9a724)
 
@@ -34,6 +35,8 @@
 
 <details>
 <summary> <b>🌏 Activities</b> </summary>
+
+- [26.09 - Present]&nbsp;&nbsp;달꿈 스터디콘서트 대학생 멘토단
 
 - [26.04 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
 
