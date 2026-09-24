@@ -36,9 +36,9 @@
 <details>
 <summary> <b>🌏 Activities</b> </summary>
 
-- [26.09 - Present]&nbsp;&nbsp;달꿈 스터디콘서트 대학생 멘토단
+- [26.09 - Present]&nbsp;&nbsp;_서큘러스_&nbsp;&nbsp;대학생 서포터즈 2기 - 청소년 코딩 수업 보조강사
 
-- [26.04 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
+- [26.03 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
 
 - [25.12 - 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르 파견&nbsp;&nbsp;[**[Link]**](https://landscape.smu.ac.kr/webzine/today.do?mode=view&articleNo=762529&article.offset=0&articleLimit=10)
 
