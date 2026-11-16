@@ -25,11 +25,11 @@
 
 - [26.11]&nbsp;&nbsp;상명대 휴먼AI스튜디오 페스티벌&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[MENIAC - _"SAICCER"_]**](https://github.com/Meniac-SMU)
 
-- [26.05]&nbsp;&nbsp;2026 PlayX4 - 상명대학교 게임전공 부스 참가&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
+- [26.05]&nbsp;&nbsp;2026 PlayX4 - 상명대학교 게임전공 부스 참가&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://store.steampowered.com/app/4838950/%EC%97%AD%EC%B2%9C_The_Sky_Breaker)
 
-- [25.12]&nbsp;&nbsp;상명대 게임전공 2학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
+- [25.12]&nbsp;&nbsp;상명대 게임전공 2학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://store.steampowered.com/app/4838950/%EC%97%AD%EC%B2%9C_The_Sky_Breaker)
 
-- [25.07]&nbsp;&nbsp;상명대 게임전공 1학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
+- [25.07]&nbsp;&nbsp;상명대 게임전공 1학기 게임개발 공모전&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://store.steampowered.com/app/4838950/%EC%97%AD%EC%B2%9C_The_Sky_Breaker)
 
 
 <br>
