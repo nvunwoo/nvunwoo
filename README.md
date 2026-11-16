@@ -14,7 +14,7 @@
 
 - [21.03 - Present]&nbsp;&nbsp;**상명대학교 서울캠퍼스 - 휴먼AI공학전공 & 게임전공** (복수전공)
 
-- [26.07 - Present]&nbsp;&nbsp;_펄어비스_&nbsp;&nbsp;해커톤 딩가딩 프로젝트 서포터즈 - 청소년 게임 개발 강사
+- [26.07 - Present]&nbsp;&nbsp;_펄어비스_&nbsp;&nbsp;해커톤 딩가딩 프로젝트 서포터즈 - 청소년 게임 개발 수업 강사
 
 - [25.11 - 26.02]&nbsp;&nbsp;_NC AI_&nbsp;&nbsp;VARCO 3D AI 크리에이터 1기&nbsp;&nbsp;[**[Link]**](https://medium.com/nc-ai/varco-3d-크리에이터-프로그램-시작-뜨거웠던-킥오프-현장-스케치-4cd9dea9a724)
 
@@ -22,6 +22,8 @@
 
 
 ## 🏆 Awards & Achievements
+
+- [26.11]&nbsp;&nbsp;상명대 휴먼AI스튜디오 페스티벌&nbsp;&nbsp;**우수상**&nbsp;&nbsp;[**[MENIAC - _"SAICCER"_]**](https://github.com/Meniac-SMU)
 
 - [26.05]&nbsp;&nbsp;2026 PlayX4 - 상명대학교 게임전공 부스 참가&nbsp;&nbsp;[**[포트리스 - _"역천"_]**](https://github.com/Fortress-SMU/YeokCheon)
 
@@ -36,9 +38,9 @@
 <details>
 <summary> <b>🌏 Activities</b> </summary>
 
-- [26.09 - Present]&nbsp;&nbsp;_서큘러스_&nbsp;&nbsp;대학생 서포터즈 2기 - 청소년 코딩 수업 보조강사
+- [26.09 - Present]&nbsp;&nbsp;_서큘러스_&nbsp;&nbsp;대학생 서포터즈 2기 - 청소년 게임 개발 수업 보조강사
 
-- [26.03 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
+- [26.03 - 26.05]&nbsp;&nbsp;_김대일문화재단_&nbsp;&nbsp;[코딩; 하다] 서포터즈 - 청소년 게임 개발 수업 강사&nbsp;&nbsp;[**[Link]**](https://www.kdcf.or.kr/Board/Detail?_boardNo=165)
 
 - [25.12 - 26.01]&nbsp;&nbsp;상명대학교 해외봉사단 - 몽골 울란바토르 파견&nbsp;&nbsp;[**[Link]**](https://landscape.smu.ac.kr/webzine/today.do?mode=view&articleNo=762529&article.offset=0&articleLimit=10)
 
